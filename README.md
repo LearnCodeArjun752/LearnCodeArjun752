@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo](https://github.com/LearnCodeArjun752/LearnCodeArjun/blob/main/aarj.jpg)
+![logo](https://github.com/LearnCodeArjun752/LearnCodeArjun752/blob/main/aarj.jpg)
 
 <h1 align="center">Hi 👋, I'm Arjun Kumar</h1>
 <h3 align="center">I am Backend Java developer from India</h3>
